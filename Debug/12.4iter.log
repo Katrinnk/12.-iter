@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\vs\12.4iter\Source.cpp(71,10): warning C4101: inf: неиспользованная локальная переменная
+  12.4iter.vcxproj -> E:\vs\12.4iter\Debug\12.4iter.exe
